@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "CaffeineMC: Monte Carlo planning model for chronic caffeine titration in mice"
+version: 1.0.0
+date-released: 2026-09-19
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+license: MIT
